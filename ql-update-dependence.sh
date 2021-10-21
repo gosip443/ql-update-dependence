@@ -7,3 +7,4 @@ npm install tunnel
 npm install ws
 npm install jsdom
 npm install png-js
+pnpm i
